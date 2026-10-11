@@ -29,7 +29,7 @@ const bookStore = {
         },
         {
             id:5,
-            title: 'You Don’t Know JS',
+            title: 'You Dont Know JS',
             author: 'Kyle Simpson',
             imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/41T5H8u7fUL._SX331_BO1,204,203,200_.jpg'
         },
